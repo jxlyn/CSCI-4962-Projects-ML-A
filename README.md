@@ -1,1 +1,1 @@
-# CSCI-4962-Projects-ML-A
+# CSCI-4962-Projects-ML-AI
